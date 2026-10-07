@@ -12,12 +12,6 @@ DevChoco-Studio는 인공지능, 데이터 분석, 자동화 기술을 활용해
 
 ## 주요 프로젝트
 
-### DevChoco Studio Web
-
-DevChoco-Studio의 공식 웹사이트 프로젝트입니다. 조직과 제품, 연구 활동을 소개하며 Studio, Lab, Design 영역으로 구성되어 있습니다.
-
-React와 Vite를 기반으로 제작되었으며, 제품 시각화와 브랜드 경험을 전달하기 위한 인터랙티브 웹 페이지를 제공합니다.
-
 ### VoxDub
 
 크리에이터를 위한 음성 보존형 AI 더빙 SaaS 프로젝트입니다.
