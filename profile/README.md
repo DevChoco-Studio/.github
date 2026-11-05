@@ -12,7 +12,7 @@ DevChoco-Studio는 인공지능, 데이터 분석, 자동화 기술을 활용해
 
 ## 주요 프로젝트
 
-### VoxDub
+### Phase(VoxDub)
 
 크리에이터를 위한 음성 보존형 AI 더빙 SaaS 프로젝트입니다.
 
